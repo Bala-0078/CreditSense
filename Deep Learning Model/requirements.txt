@@ -35,7 +35,7 @@ jsonschema==2.6.0
 jupyter==1.0.0
 jupyter-client==5.2.2
 jupyter-console==5.2.0
-jupyter-core==4.4.0
+jupyter-core==5.8.0
 Keras==2.1.5
 kiwisolver==1.0.1
 MarkupSafe==1.0
@@ -68,7 +68,7 @@ PyYAML==3.12
 pyzmq==17.0.0
 qtconsole==4.3.1
 raven==6.6.0
-requests==2.18.4
+requests==2.32.4
 requests-toolbelt==0.8.0
 scandir==1.7
 scikit-learn==0.19.1
