@@ -12,7 +12,7 @@ click==6.7
 clint==0.5.1
 configparser==3.5.0
 contextlib2==0.5.5
-cryptography==2.1.4
+cryptography==46.0.5
 cycler==0.10.0
 decorator==4.2.1
 entrypoints==0.2.3
@@ -36,7 +36,7 @@ jupyter==1.0.0
 jupyter-client==5.2.2
 jupyter-console==5.2.0
 jupyter-core==4.4.0
-Keras==2.1.5
+Keras==3.13.2
 kiwisolver==1.0.1
 MarkupSafe==1.0
 marshmallow==2.15.0
